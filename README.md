@@ -1,0 +1,2 @@
+# Short cutting the pipeline
+This project represents how to inject data into a GStreamer pipeline, how to extract data from a GStreamer pipeline and how to access and manipulate this data. [Full documentation](https://gstreamer.freedesktop.org/documentation/tutorials/basic/short-cutting-the-pipeline.html?gi-language=c)
